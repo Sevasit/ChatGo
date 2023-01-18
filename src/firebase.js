@@ -7,14 +7,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCBxRd2iuVpJDlUFfe6o-tJClBDhSLTOXM",
-  authDomain: "games-c5f95.firebaseapp.com",
-  databaseURL: "https://games-c5f95.firebaseio.com",
-  projectId: "games-c5f95",
-  storageBucket: "games-c5f95.appspot.com",
-  messagingSenderId: "665881573949",
-  appId: "1:665881573949:web:aa2cbc5e87717896f00854",
-  measurementId: "G-094LJ9M0S5",
+  <<Your firebase>>
 };
 
 // Initialize Firebase
